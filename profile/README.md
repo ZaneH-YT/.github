@@ -2,6 +2,8 @@
 
 > Channel URL: [youtube.com/zanehelton](https://youtube.com/zanehelton)
 
+### Learn Elixir Quickly
+
 | Repo | Tech | Video |
 |---|---|---|
 | [Coin Flip](https://github.com/ZaneH-YT/coin_flip) | Elixir | [YouTube](https://www.youtube.com/watch?v=Vz7qH_dJQC0) |
